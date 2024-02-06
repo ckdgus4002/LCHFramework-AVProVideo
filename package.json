@@ -1,0 +1,15 @@
+{
+  "name": "kr.lch.lchframework.avprovideo",
+  "displayName": "LCHFramework AVProVideo",
+  "description": "LCHFramework AVProVideo",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckdgus4002/LCHFramework-AVProVideo.git"
+  },
+  "author": {
+    "name": "LCH",
+    "email": "lch@lch.kr",
+    "url": "https://github.com/ckdgus4002"
+  }
+}
