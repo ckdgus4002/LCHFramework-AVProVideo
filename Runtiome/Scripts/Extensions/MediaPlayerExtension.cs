@@ -1,6 +1,6 @@
 using RenderHeads.Media.AVProVideo;
 
-namespace LCHFramework.Extensions
+namespace LCHFramework.AVProVideo.Extensions
 {
     public static class MediaPlayerExtension
     {
